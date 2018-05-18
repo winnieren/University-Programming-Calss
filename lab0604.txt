@@ -1,0 +1,10 @@
+For which method is it easier to write the code? Why?
+
+It is easier to write the code through the recursive method because it was a simpler logic. Less constraints (if-else statements for different cases) were necessary.
+Also, we are more accustomed to thinking of these mathematical questions recursively in real life
+(we share a more similar formula as the recursive program for the fibonaci sequence, fn= f(n-1) + f(n-2), which is very similar to return = recusive (n-1)+recursive (n-2))
+
+
+Which method is more computationally efficient? why?
+
+The interative functions is more computationally efficient because recursive functions require more memory than the equivalent iterative version. Therefore, it takes the computer more time to run
